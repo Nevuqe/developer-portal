@@ -14,10 +14,10 @@ For this instance, we have used [UTM](https://mac.getutm.app) - as it has a slee
 [Download Here.](https://mac.getutm.app)
 
 #### Downloading FreeBSD
-Now that we have installed UTM, we can download FreeBSD 13.1-Stable from a verified source.
+Now that we have installed UTM, we can download FreeBSD 13 from a verified source.
 
 ~~~ shell
-$ wget https://download.freebsd.org/releases/amd64/amd64/ISO-IMAGES/13.1/FreeBSD-13.1-RELEASE-amd64-dvd1.iso
+$ wget https://download.freebsd.org/ftp/releases/ISO-IMAGES/13.0/FreeBSD-13.0-RELEASE-amd64-dvd1.iso
 ~~~
 
 This may take a while depending on your internet speed, if you have a stable internet connection and want to reduce the download size - you can install the bootonly installer. Which downloads required files from the internet upon installation.
@@ -25,7 +25,7 @@ This may take a while depending on your internet speed, if you have a stable int
 This can be downloaded via:
 
 ~~~ shell
-$ wget https://download.freebsd.org/releases/amd64/amd64/ISO-IMAGES/13.1/FreeBSD-13.1-RELEASE-amd64-bootonly.iso
+$ wget https://download.freebsd.org/ftp/releases/ISO-IMAGES/13.0/FreeBSD-13.0-RELEASE-amd64-bootonly.iso
 ~~~
 
 #### Creating the VM
@@ -112,10 +112,10 @@ $ sudo reboot
 ~~~
 
 #### Downloading the ISO
-Now that we have installed VirtualBox, we can download FreeBSD 13.1-Stable from a verified source.
+Now that we have installed VirtualBox, we can download FreeBSD 13 from a verified source.
 
 ~~~ shell
-$ wget https://download.freebsd.org/releases/amd64/amd64/ISO-IMAGES/13.1/FreeBSD-13.1-RELEASE-amd64-dvd1.iso
+$ wget https://download.freebsd.org/ftp/releases/ISO-IMAGES/13.0/FreeBSD-13.0-RELEASE-amd64-dvd1.iso
 ~~~
 
 This may take a while depending on your internet speed, if you have a stable internet connection and want to reduce the download size - you can install the bootonly installer. Which downloads required files from the internet upon installation.
@@ -123,7 +123,7 @@ This may take a while depending on your internet speed, if you have a stable int
 This can be downloaded via:
 
 ~~~ shell
-$ wget https://download.freebsd.org/releases/amd64/amd64/ISO-IMAGES/13.1/FreeBSD-13.1-RELEASE-amd64-bootonly.iso
+$ wget https://download.freebsd.org/ftp/releases/ISO-IMAGES/13.0/FreeBSD-13.0-RELEASE-amd64-bootonly.iso
 ~~~
 
 #### Creating the VM
@@ -136,11 +136,11 @@ For further customization, you can go into the VM's settings and adjust everythi
 ### <strong>Setting up on Windows</strong>
 
 #### Downloading the ISO
-Download the full version of FreeBSD 13.1-Stable from this [link](https://download.freebsd.org/releases/amd64/amd64/ISO-IMAGES/13.1/FreeBSD-13.1-RELEASE-amd64-dvd1.iso) direct from freebsd.org.
+Download the full version of FreeBSD 13 from this [link](https://download.freebsd.org/ftp/releases/ISO-IMAGES/13.0/FreeBSD-13.0-RELEASE-amd64-dvd1.iso) direct from freebsd.org.
 
 This may take a while depending on your internet speed, if you have a stable internet connection and want to reduce the download size - you can install the bootonly installer. Which downloads required files from the internet upon installation.
 
-This can be downloaded via this [link](https://download.freebsd.org/releases/amd64/amd64/ISO-IMAGES/13.1/FreeBSD-13.1-RELEASE-amd64-bootonly.iso) direct from freebsd.org
+This can be downloaded via this [link](https://download.freebsd.org/ftp/releases/ISO-IMAGES/13.0/FreeBSD-13.0-RELEASE-amd64-bootonly.iso) direct from freebsd.org
 
 #### Downloading VirtualBox
 [Virtualbox](https://www.virtualbox.org) is a commonly used Virtual Machine Manager, it is great for both Linux and Windows due to its compatibility, performance and features.
