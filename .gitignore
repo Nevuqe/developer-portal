@@ -18,3 +18,6 @@ xcuserdata
 
 # Build output
 .output
+
+# Server Specific
+.htaccess

@@ -13,8 +13,6 @@
           name: installing-freebsd
         - title: Downloading Seva
           name: downloading-seva
-        - title: Running Seva
-          name: running-seva
     - title: Download
       url: /download/
       sections:
