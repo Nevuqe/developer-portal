@@ -1,8 +1,12 @@
 ## Setting up the Environment
 
+<div class="info" markdown="1">
+Information on cross-compiling will be added shortly.
+</div>
+
 Unfortunately, Seva can only be built on a FreeBSD 13 based operating system - as this is the version Seva currently uses. 
 
-Fortunately, however, FreeBSD is easy to set up - and we'll even talk about **optional** port forwarding into our VM so you can use your terminal instead.
+Fortunately, however, FreeBSD is easy to set up.
 
 Work is being done to allow cross-compiling of Seva, however, this is experimental and undocumented as of yet.
 
