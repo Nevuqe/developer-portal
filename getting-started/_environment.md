@@ -13,21 +13,6 @@ For this instance, we have used [UTM](https://mac.getutm.app) - as it has a slee
 
 [Download Here.](https://mac.getutm.app)
 
-#### Downloading FreeBSD
-Now that we have installed UTM, we can download FreeBSD 13 from a verified source.
-
-~~~ shell
-$ wget https://download.freebsd.org/ftp/releases/ISO-IMAGES/13.0/FreeBSD-13.0-RELEASE-amd64-dvd1.iso
-~~~
-
-This may take a while depending on your internet speed, if you have a stable internet connection and want to reduce the download size - you can install the bootonly installer. Which downloads required files from the internet upon installation.
-
-This can be downloaded via:
-
-~~~ shell
-$ wget https://download.freebsd.org/ftp/releases/ISO-IMAGES/13.0/FreeBSD-13.0-RELEASE-amd64-bootonly.iso
-~~~
-
 #### Creating the VM
 
 Now that UTM and the ISO file have been installed, we can now continue to create our VM for FreeBSD.
@@ -111,21 +96,6 @@ For these changes to take effect, reboot your computer.
 $ sudo reboot
 ~~~
 
-#### Downloading the ISO
-Now that we have installed VirtualBox, we can download FreeBSD 13 from a verified source.
-
-~~~ shell
-$ wget https://download.freebsd.org/ftp/releases/ISO-IMAGES/13.0/FreeBSD-13.0-RELEASE-amd64-dvd1.iso
-~~~
-
-This may take a while depending on your internet speed, if you have a stable internet connection and want to reduce the download size - you can install the bootonly installer. Which downloads required files from the internet upon installation.
-
-This can be downloaded via:
-
-~~~ shell
-$ wget https://download.freebsd.org/ftp/releases/ISO-IMAGES/13.0/FreeBSD-13.0-RELEASE-amd64-bootonly.iso
-~~~
-
 #### Creating the VM
 Open your VirtualBox interface, click on New from the top left corner and in the Create Virtual Machine window give your VM a name, select BSD as its type and FreeBSD(64-bit) as its version.
 
@@ -135,16 +105,19 @@ For further customization, you can go into the VM's settings and adjust everythi
 
 ### <strong>Setting up on Windows</strong>
 
-#### Downloading the ISO
-Download the full version of FreeBSD 13 from this [link](https://download.freebsd.org/ftp/releases/ISO-IMAGES/13.0/FreeBSD-13.0-RELEASE-amd64-dvd1.iso) direct from freebsd.org.
-
-This may take a while depending on your internet speed, if you have a stable internet connection and want to reduce the download size - you can install the bootonly installer. Which downloads required files from the internet upon installation.
-
-This can be downloaded via this [link](https://download.freebsd.org/ftp/releases/ISO-IMAGES/13.0/FreeBSD-13.0-RELEASE-amd64-bootonly.iso) direct from freebsd.org
-
 #### Downloading VirtualBox
 [Virtualbox](https://www.virtualbox.org) is a commonly used Virtual Machine Manager, it is great for both Linux and Windows due to its compatibility, performance and features.
 
 For your VM to work correctly, you will need to enable the VT-x/VT-d extension for Intel Processors, for AMD you will have to enable AMD-v/SVM.
 
 [Download VirtualBox Here](https://www.virtualbox.org/wiki/Downloads)
+
+#### Creating the VM
+
+Open your VirtualBox interface, click on New from the top left corner and in the Create Virtual Machine window give your VM a name, select BSD as its type and FreeBSD(64-bit) as its version.
+
+From there, adjust the Memory Size and create a Hard Disk for your VM.
+
+For further customization, you can go into the VM’s settings and adjust everything from processors, display, and networking.
+<br>
+<br>

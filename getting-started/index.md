@@ -10,5 +10,6 @@ On this page, you'll find information on:
   * Downloading the Seva Kernel
 
 {% include_relative _environment.md %}
+{% include_relative _downloading_freebsd.md %}
 {% include_relative _installing-freebsd.md %}
 {% include_relative _download_seva.md %}

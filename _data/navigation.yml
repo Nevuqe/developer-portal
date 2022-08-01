@@ -9,10 +9,25 @@
       sections:
         - title: Setting up the Environment
           name: setting-up-the-environment
+        - title: Downloading FreeBSD
+          name: downloading-freebsd
         - title: Installing FreeBSD
           name: installing-freebsd
         - title: Downloading Seva
           name: downloading-seva
+    - title: Documentation
+      url: /documentation/
+      sections:
+        - title: About
+          name: about
+        - title: Preparing to Build
+          name: preparing-to-build
+        - title: Building the Kernel
+          name: building-the-kernel
+        - title: Building the World
+          name: building-the-world
+        - title: Packaging the Kernel & World
+          name: packaging-the-kernel-and-world
     - title: Download
       url: /download/
       sections:
@@ -20,11 +35,6 @@
           name: releases
         - title: Snapshots
           name: snapshots
-    - title: Documentation
-      url: /documentation/
-      sections:
-        - title: Seva Documentation
-          name: seva-documentation
 
 - header: Open Source Development
   pages:

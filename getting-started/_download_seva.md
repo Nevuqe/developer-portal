@@ -5,5 +5,7 @@ Seva is publically hosted on GitHub, meaning it is freely accessible to anybody 
 To download Seva, all you need to do is clone this into your FreeBSD home folder:
 
 ~~~ shell
-https://github.com/Uquinix/seva.git
+$ qgit clone https://github.com/Uquinix/seva.git
 ~~~
+<br>
+<br>

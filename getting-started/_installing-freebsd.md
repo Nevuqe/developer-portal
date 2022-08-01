@@ -17,3 +17,5 @@ When selecting components to install, this is the description for system compone
  * ports - A collection of files which automate the downloading, compiling, and installation of third-party software packages.
 
 For more informative information on installing FreeBSD, refer to [FreeBSD Install Documentation](https://docs.freebsd.org/en/books/handbook/bsdinstall/)
+<br>
+<br>

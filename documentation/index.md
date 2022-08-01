@@ -7,12 +7,16 @@ title: Seva Documentation
 The Seva Kernel is currently under heavy development, meaning this page will be heavily modified as time goes on. [Visit the Seva Repository](https://github.com/Uquinix/Seva).
 </div>
 
+<div class="info" markdown="1">
+Information on cross-compiling will be added shortly.
+</div>
+
 ### About
 The kernel is the core of the Enso operating system. It is responsible for managing memory, enforcing security controls, networking, disk access, and much more.
 
 <strong>All of the commands listed in the examples in this chapter should be executed as root.</strong>
 
-### Perparing to Build
+### Preparing to Build
 The output of the build goes to /usr/obj/source path/machine architecture - e.g. /usr/obj/Users/you/seva/amd64.amd64. 
 
 If you don't want to build as root, you need to create the path ahead of time or give yourself ownership of /usr/obj with chown.
