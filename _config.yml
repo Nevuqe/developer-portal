@@ -1,0 +1,28 @@
+url: https://developer.uquinix.com
+title: Seva
+description: "Seva is a heavily modified version of BSD which entails high performance, security, privacy and compatibility."
+timezone: Europe/London
+exclude: ["README.md", "config.ru", "Gemfile", "Gemfile.lock", "Procfile", "vendor"]
+safe: true
+future: true
+
+kramdown:
+    syntax_highlighter: rouge
+
+sass:
+    style: compressed
+    sass_dir: "assets/stylesheets"
+
+defaults:
+    -
+        scope:
+            type: "posts"
+        values:
+            permalink: /blog/:title/
+            layout: "post"
+
+gems:
+  - jekyll-redirect-from
+
+whitelist:
+  - jekyll-redirect-from

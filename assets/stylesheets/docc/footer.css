@@ -1,0 +1,56 @@
+:host {
+    --color-footer-background-light: #333333;
+    --color-footer-text-light: #cccccc;
+    --color-footer-background: var(--color-footer-background-light);
+    --color-footer-text: var(--color-footer-text-light);
+    font-family: -apple-system, "Helvetica Neue", Helvetica, Arial, Verdana, sans-serif;
+    font-size: 18px;
+    font-weight: 300;
+    line-height: 1;
+}
+
+p {
+    margin: 0;
+    padding: 0;
+}
+
+footer[role="contentinfo"] {
+    background: var(--color-footer-background);
+    color: var(--color-footer-text);
+}
+
+.container {
+    --padding-x: 22px;
+    --padding-y: 20px;
+    display: flex;
+    justify-content: space-between;
+    margin: 0 auto;
+    min-height: 74px;
+    padding: var(--padding-y) var(--padding-x);
+    width: 980px;
+}
+
+footer[role="contentinfo"] a,
+footer[role="contentinfo"] a:active,
+footer[role="contentinfo"] a:visited {
+    text-decoration: none;
+}
+
+footer[role="contentinfo"] a:hover {
+    text-decoration: underline;
+}
+
+footer[role="contentinfo"] aside {
+    flex-shrink: 0;
+}
+
+footer[role="contentinfo"] aside i {
+    --icon-size: 16px;
+    background-repeat: no-repeat;
+    background-size: var(--icon-size);
+    display: block;
+    float: right;
+    height: var(--icon-size);
+    margin-left: 1em;
+    width: var(--icon-size);
+}

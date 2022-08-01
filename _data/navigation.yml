@@ -1,0 +1,36 @@
+- pages:
+    - title: About Seva
+      url: /about/
+      sections:
+        - title: Features
+          name: features
+    - title: Getting Started
+      url: /getting-started/
+      sections:
+        - title: Setting up the Environment
+          name: setting-up-the-environment
+        - title: Installing FreeBSD
+          name: installing-freebsd
+        - title: Downloading Seva
+          name: downloading-seva
+        - title: Running Seva
+          name: running-seva
+    - title: Download
+      url: /download/
+      sections:
+        - title: Releases
+          name: releases
+        - title: Snapshots
+          name: snapshots
+    - title: Documentation
+      url: /documentation/
+      sections:
+        - title: Seva Documentation
+          name: seva-documentation
+
+- header: Open Source Development
+  pages:
+    - title: Continuous Integration
+      url: /continuous-integration/
+    - title: Security
+      url: /support/security.html
