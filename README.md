@@ -21,7 +21,7 @@ Requirements
 To run the site locally, enter the following commands into a terminal window:
 
 ```shell
-git clone https://github.com/apple/seva-org-website.git
+git clone https://github.com/uquinix/developer.uquinix.com.git
 cd developer.uquinix.com
 bundle install
 LC_ALL=en_us.UTF-8 bundle exec jekyll serve --livereload
