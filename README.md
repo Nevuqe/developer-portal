@@ -2,7 +2,7 @@
 
 ## Overview
 
-developer.uquinix.com serves as documentation for Seva, as well as extra information about Uquinix - such as how to report bugs safely and direct downloads.
+This website serves as documentation for the Uquinix Seva Kernel, as well as extra information about how to report bugs safely, us as a company, and direct downloads to releases and snapshots for Seva.
 
 ## Technical
 
