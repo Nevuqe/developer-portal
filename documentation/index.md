@@ -1,10 +1,10 @@
 ---
 layout: page
-title: UQK Documentation
+title: UQC Documentation
 ---
 
 <div class="warning" markdown="1">
-The UQK Kernel is currently under heavy development, meaning this page will be heavily modified as time goes on. [Visit the UQK Repository](https://github.com/Uquinix/UQK).
+The UQC Kernel is currently under heavy development, meaning this page will be heavily modified as time goes on. [Visit the UQC Repository](https://github.com/Uquinix/UQC).
 </div>
 
 <div class="info" markdown="1">
@@ -12,12 +12,12 @@ Information on cross-compiling will be added shortly.
 </div>
 
 ### About
-UQK is the core of the uqOS operating system. It is responsible for managing memory, enforcing security controls, networking, disk access, and much more.
+UQC is the core of the uqOS operating system. It is responsible for managing memory, enforcing security controls, networking, disk access, and much more.
 
 <strong>All of the commands listed in the examples in this chapter should be executed as root.</strong>
 
 ### Preparing to Build
-The output of the build goes to /usr/obj/source path/machine architecture - e.g. /usr/obj/Users/you/UQK/amd64.amd64. 
+The output of the build goes to /usr/obj/source path/machine architecture - e.g. /usr/obj/Users/you/UQC/amd64.amd64. 
 
 If you don't want to build as root, you need to create the path ahead of time or give yourself ownership of /usr/obj with chown.
 

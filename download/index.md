@@ -1,14 +1,14 @@
 ---
 layout: page
-title: Download UQK
+title: Download UQC
 ---
 
 ## Releases
 
-UQK updates will be automatically added below when uploaded and built.
+UQC updates will be automatically added below when uploaded and built.
 
 ## Snapshots
 
-There are currently no UQK snapshots available, check back later.
+There are currently no UQC snapshots available, check back later.
 
-#### UQK is covered by the UQK License at [LICENSE.txt](/LICENSE.txt).
+#### UQC is covered by the UQC License at [LICENSE.txt](/LICENSE.txt).

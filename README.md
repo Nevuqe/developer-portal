@@ -1,8 +1,8 @@
-# UQK (developer.uquinix.com) Website
+# UQC (developer.uquinix.com) Website
 
 ## Overview
 
-This website serves as documentation for UQK (Uquinix Kernel), as well as extra information about how to report bugs safely, us as a company, and direct downloads to releases and snapshots for UQK.
+This website serves as documentation for UQC (Uquinix Core), as well as extra information about how to report bugs safely, us as a company, and direct downloads to releases and snapshots for UQC.
 
 ## Technical
 

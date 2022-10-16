@@ -3,12 +3,12 @@
   --color-header-text-light: #242424;
   --icon-close-url-light: url("https://developer.uquinix.com/assets/images/icon-close.svg");
   --icon-menu-url-light: url("https://developer.uquinix.com/assets/images/icon-menu.svg");
-  --logo-url-light: url("https://developer.uquinix.com/assets/images/UQK.svg");
+  --logo-url-light: url("https://developer.uquinix.com/assets/images/UQC.svg");
   --color-header-background-dark: #151515;
   --color-header-text-dark: #fafafa;
   --icon-close-url-dark: url("https://developer.uquinix.com/assets/images/icon-close~dark.svg");
   --icon-menu-url-dark: url("https://developer.uquinix.com/assets/images/icon-menu~dark.svg");
-  --logo-url-dark: url("https://developer.uquinix.com/assets/images/UQK-dark.svg");
+  --logo-url-dark: url("https://developer.uquinix.com/assets/images/UQC-dark.svg");
   --color-header-background: var(--color-header-background-light);
   --color-header-border: var(--color-nav-keyline);
   --color-header-link-hover: var(--color-link);

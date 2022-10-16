@@ -1,5 +1,5 @@
 - pages:
-    - title: About UQK
+    - title: About UQC
       url: /about/
       sections:
         - title: Features
@@ -13,8 +13,8 @@
           name: downloading-freebsd
         - title: Installing FreeBSD
           name: installing-freebsd
-        - title: Downloading UQK
-          name: downloading-UQK
+        - title: Downloading UQC
+          name: downloading-UQC
     - title: Documentation
       url: /documentation/
       sections:

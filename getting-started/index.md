@@ -7,7 +7,7 @@ On this page, you'll find information on:
 
   * Setting up the Build Environment
   * Installing FreeBSD onto our VM
-  * Downloading the UQK Kernel
+  * Downloading the UQC Kernel
 
 {% include_relative _environment.md %}
 {% include_relative _downloading_freebsd.md %}

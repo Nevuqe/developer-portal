@@ -4,11 +4,11 @@
 Information on cross-compiling will be added shortly.
 </div>
 
-Unfortunately, UQK can only be built on a FreeBSD 13 based operating system - as this is the version UQK currently uses. 
+Unfortunately, UQC can only be built on a FreeBSD 13 based operating system - as this is the version UQC currently uses. 
 
 Fortunately, however, FreeBSD is easy to set up.
 
-Work is being done to allow cross-compiling of UQK, however, this is experimental and undocumented as of yet.
+Work is being done to allow cross-compiling of UQC, however, this is experimental and undocumented as of yet.
 
 ### <strong>Setting up on macOS</strong>
 
