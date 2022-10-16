@@ -1,8 +1,8 @@
-# Seva (developer.uquinix.com) Website
+# UQK (developer.uquinix.com) Website
 
 ## Overview
 
-This website serves as documentation for the Uquinix Seva Kernel, as well as extra information about how to report bugs safely, us as a company, and direct downloads to releases and snapshots for Seva.
+This website serves as documentation for UQK (Uquinix Kernel), as well as extra information about how to report bugs safely, us as a company, and direct downloads to releases and snapshots for UQK.
 
 ## Technical
 

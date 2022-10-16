@@ -1,14 +1,14 @@
 ---
 layout: page
-title: Download Seva
+title: Download UQK
 ---
 
 ## Releases
 
-Seva updates will be automatically added below when uploaded and built.
+UQK updates will be automatically added below when uploaded and built.
 
 ## Snapshots
 
-There are currently no Seva snapshots available, check back later.
+There are currently no UQK snapshots available, check back later.
 
-#### Seva is covered by the Seva License at [LICENSE.txt](/LICENSE.txt).
+#### UQK is covered by the UQK License at [LICENSE.txt](/LICENSE.txt).
