@@ -12,4 +12,4 @@ On this page, you'll find information on:
 {% include_relative _environment.md %}
 {% include_relative _downloading_freebsd.md %}
 {% include_relative _installing-freebsd.md %}
-{% include_relative _download_UQK.md %}
+{% include_relative _download_UQC.md %}

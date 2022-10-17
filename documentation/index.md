@@ -12,7 +12,7 @@ Information on cross-compiling will be added shortly.
 </div>
 
 ### About
-UQC is the core of the uqOS operating system. It is responsible for managing memory, enforcing security controls, networking, disk access, and much more.
+UQC is the core of the Enso operating system. It is responsible for managing memory, enforcing security controls, networking, disk access, and much more.
 
 <strong>All of the commands listed in the examples in this chapter should be executed as root.</strong>
 
