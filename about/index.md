@@ -21,6 +21,6 @@ The features of UQC are designed to work together to create a powerful kernel. S
 
 ### Security & Privacy
 
-UQC is designed for utmost security and privacy. We take vulnerabilities seriously when it comes to UQC, see [Security](support/security/), so that's why we chose FreeBSD as our base. Not only does it provide great compatibility for its users, but it provides security on a daily basis.
+We have fixed numerous critical vulnerabilities, which can be found [here](https://www.cvedetails.com/vulnerability-list/vendor_id-6/Freebsd.html), and have improved how drivers are loaded and unloaded. We have also removed legacy drivers from the kernel, as in the present they are unnecessary and can be downloaded after installation.
 
-To accomplish this, we are in the process of drastically changing our version of FreeBSD. We have fixed numerous critical vulnerabilities in the base kernel, which can be found [here](https://www.cvedetails.com/vulnerability-list/vendor_id-6/Freebsd.html), and have improved how drivers are loaded and unloaded. We have also removed legacy drivers from the kernel, as in this day and age they are unnecessary and can be downloaded after installation.
+We have also improved many security vulnerabilities based in FreeBSD-Current (14.0), among more.
