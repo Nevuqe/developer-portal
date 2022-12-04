@@ -1,3 +1,10 @@
+@font-face {
+    font-family: uq;
+    src: url(https://uquinix.com/uq/fonts/uq-bold.woff2) format("woff2"),
+      url(https://uquinix.com/uq/fonts/uq-bold.woff) format("woff");
+    font-weight: 400;
+    font-style: normal;
+  }
 *,
 *:before,
 *:after {
@@ -12,7 +19,7 @@ body {
 }
 
 body {
-    font-family: -apple-system, "Helvetica Neue", Helvetica, Arial, Verdana, sans-serif;
+    font-family: "uq";
     font-size: 18px;
     line-height: 1.5;
     background-color: var(--color-fill);
@@ -20,7 +27,7 @@ body {
     font-weight: 300;
     pre,
     code {
-        font-family: -apple-system, "Helvetica Neue", Helvetica, Arial, Verdana, sans-serif;
+        font-family: "uq";
     }
 }
 
@@ -652,7 +659,7 @@ pre code .graphic {
 
 pre code .commentary,
 pre code .graphic {
-    font-family: -apple-system, "Helvetica Neue", Helvetica, Arial, Verdana, sans-serif;
+    font-family: "uq";
 }
 
 @supports (overflow:-webkit-marquee) and (justify-content:inherit) {
