@@ -6,7 +6,7 @@ This website serves as documentation for UQC (Uquinix Core), as well as extra in
 
 ## Technical
 
-developer.uquinix.com uses [Jekyll](https://jekyllrb.com), a blog-aware, static site generator in Ruby.
+developer.uquinix.com (uqc-docs) uses [Jekyll](https://jekyllrb.com), a blog-aware, static site generator in Ruby.
 
 ### Running locally
 
