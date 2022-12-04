@@ -21,8 +21,8 @@ Requirements
 To run the site locally, enter the following commands into a terminal window:
 
 ```shell
-git clone https://github.com/uquinix/developer.uquinix.com.git
-cd developer.uquinix.com
+git clone https://github.com/uquinix/uqc-docs.git
+cd uqc-docs
 bundle install
 LC_ALL=en_us.UTF-8 bundle exec jekyll serve --livereload
 open "http://localhost:4000"
