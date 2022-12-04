@@ -23,4 +23,4 @@ The features of UQC are designed to work together to create a powerful kernel. S
 
 We have fixed numerous critical vulnerabilities, which can be found [here](https://www.cvedetails.com/vulnerability-list/vendor_id-6/Freebsd.html), and have improved how drivers are loaded and unloaded. We have also removed legacy drivers from the kernel, as in the present they are unnecessary and can be downloaded after installation.
 
-We have also improved many security vulnerabilities based in FreeBSD-Current (14.0), among more.
+We have also improved many security vulnerabilities based in FreeBSD-Current (14.0), among many more.
