@@ -3,12 +3,8 @@ layout: page
 title: Download UQC
 ---
 
-## Releases
+<div class="warning" markdown="1">
+The UQC Kernel is currently under development, no releases are being provided. [Visit the UQC Repository and clone source](https://github.com/Uquinix/UQC).
+</div>
 
-UQC updates will be automatically added below when uploaded and built.
-
-## Snapshots
-
-There are currently no UQC snapshots available, check back later.
-
-#### UQC is covered by the UQC License at [LICENSE.txt](/LICENSE.txt).
+### UQC is covered by the UQC License at [LICENSE.txt](/LICENSE.txt).
