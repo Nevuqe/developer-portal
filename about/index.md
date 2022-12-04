@@ -5,7 +5,7 @@ title: About UQC
 
 UQC is a groundbreaking new kernel which utilizes elements of the FreeBSD kernel to provide a stunningly smooth user experience. It provides a singular UI toolkit and amazing speed to the user.
 
-## Features
+### Features
 
 UQC is established on the foundations and framework of FreeBSD, delivering superb stability and support with applications and services.
 
@@ -15,11 +15,9 @@ The features of UQC are designed to work together to create a powerful kernel. S
 
 * Security over Linux/XNU/Windows
 * High Performance and Reliability
-* Wide Hardware Compatibility
-* Compatibility of Software (30,000+ Ported Software)
-* Z-File System
+* Extensive Hardware Compatibility
+* Compatibility of Software (40,000+ Ported Software)
 * Binary Compatibility with Linux
-
 
 ### Security & Privacy
 

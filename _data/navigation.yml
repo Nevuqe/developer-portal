@@ -4,6 +4,8 @@
       sections:
         - title: Features
           name: features
+        - title: Security & Privacy
+          name: security
     - title: Getting Started
       url: /getting-started/
       sections:
