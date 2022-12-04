@@ -3,7 +3,7 @@ layout: page
 title: Uquinix Security
 ---
 
-## Security Process
+### Security Process
 
 For the protection of our community and products, Uquinix doesn't disclose, discuss, or confirm security issues until our investigation is complete and any necessary updates are generally available.
 
