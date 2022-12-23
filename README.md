@@ -4,9 +4,11 @@
 
 This website serves as documentation for UQC (Uquinix Core), as well as extra information about how to report bugs safely, us as a company, and direct downloads to releases and snapshots for UQC.
 
-This repository is a read-only mirror located at [source.uquinix.com](https://source.uquinix.com/uqc-docs/), issues and pull-requests are still accepted and read.
+For any enquiries, contact uqc@uquinix.com.
 
-For any security concerns or general enquiries, please contact uqc@uquinix.com
+And for security-related enquiries, please encrypt your email using our GPG key and contact security@uquinix.com.
+
+This repository is a read-only mirror located at [git.uquinix.com](https://git.uquinix.com/uqc-docs/), issues and pull-requests are still accepted and read.
 
 ## Technical
 
