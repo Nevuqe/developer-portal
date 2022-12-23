@@ -3,17 +3,17 @@ layout: page
 title: About UQC
 ---
 
-UQC is a groundbreaking new kernel which utilizes elements of the FreeBSD kernel to provide a stunningly smooth user experience. It provides a singular UI toolkit and amazing speed to the user.
+UQC utilizes elements of FreeBSD to provide a stunningly smooth user experience. UQC provides incredible performance, alongside refined security to the user.
 
-### Features
+### Inital Details
 
 UQC is established on the foundations and framework of FreeBSD, delivering incredible stability and support with applications and services.
 
-To improve, we have introduced modern programming principles and beliefs into UQC. We have kept a minimalistic design attitude toward our code. Therefore decreasing the number of files, services and drivers included in the base kernel - diminishing space and expanding the amount of free memory and drive space for more important tasks.
+To improve upon this base, we have introduced modern programming principles and beliefs into UQC. We have kept a minimalistic design attitude toward our code. Therefore decreasing the number of files, services and drivers included in the base system - extending space and expanding the amount of free memory and drive space on the system.
 
-The features of UQC are designed to work together to create a powerful kernel. Some additional features of UQC include:
+The features of UQC are designed to work together to create a powerful framework for a groundbreaking operating system. Main features of UQC include:
 
-* Security over Linux/XNU/Windows
+* Security over Linux/XNU/Windows/FreeBSD-Current
 * High Performance and Reliability
 * Extensive Hardware Compatibility
 * Compatibility of Software (40,000+ Ported Software)
@@ -21,6 +21,4 @@ The features of UQC are designed to work together to create a powerful kernel. S
 
 ### Security & Privacy
 
-We have fixed numerous critical vulnerabilities, which can be found [here](https://www.cvedetails.com/vulnerability-list/vendor_id-6/Freebsd.html), and have improved how drivers are loaded and unloaded. We have also removed legacy drivers from the kernel, as in the present they are unnecessary and can be downloaded after installation.
-
-We have also improved many security vulnerabilities based in FreeBSD-Current (14.0), among many more.
+We strongly reinforce security into our development process, which is why we've made many changes to how UQC operates. FreeBSD, at the time of writing, has many security vulnerabilites which are the result of performance over security. We have subsequently removed these vulnerabilities, without trading off on performance. We have also removed legacy drivers and architectures from the kernel, as these are unnecessary to the vast majority of users, and wouldn't be capable of running on Enso.
