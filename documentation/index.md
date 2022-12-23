@@ -4,11 +4,15 @@ title: UQC Documentation
 ---
 
 <div class="warning" markdown="1">
-The UQC Kernel is currently under heavy development, meaning this page will be heavily modified as time goes on. [Visit the UQC Repository](https://github.com/Uquinix/UQC).
+The UQC Kernel is currently under heavy development, meaning this page will be heavily modified as time goes on. [Visit the UQC Repository](https://git.uquinix.com/uqc).
 </div>
 
 <div class="info" markdown="1">
-Cross-compiling is currently in development, a new build system is being made for UQC.
+A new build system is being made for UQC, it is being written with Meson.
+</div>
+
+<div class="info" markdown="1">
+A new init system is being developed for UQC. [Visit the UQIS Repository](https://git.uquinix.com/uqis)
 </div>
 
 ### About
