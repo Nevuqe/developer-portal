@@ -7,7 +7,7 @@ UQC is a groundbreaking new kernel which utilizes elements of the FreeBSD kernel
 
 ### Features
 
-UQC is established on the foundations and framework of FreeBSD, delivering superb stability and support with applications and services.
+UQC is established on the foundations and framework of FreeBSD, delivering incredible stability and support with applications and services.
 
 To improve, we have introduced modern programming principles and beliefs into UQC. We have kept a minimalistic design attitude toward our code. Therefore decreasing the number of files, services and drivers included in the base kernel - diminishing space and expanding the amount of free memory and drive space for more important tasks.
 
