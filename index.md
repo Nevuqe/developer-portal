@@ -19,4 +19,7 @@ Please note, this website is under construction - information is being added as 
 ### Would you like to contribute and improve this website?
 This website is open-sourced on GitHub, meaning you can submit a pull request to add any information, improve our documentation or anything else.
 
-Visit our page [here](https://github.com/Uquinix/developer.uquinix.com)
+Visit our page:
+
+- [GitHub](https://github.com/Uquinix/uqc-docs)
+- [git.uquinix.com](https://git.uquinix.com/uqc-docs)
