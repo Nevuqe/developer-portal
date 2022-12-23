@@ -3,9 +3,9 @@
       url: /about/
       sections:
         - title: Inital Details
-          name: initial details
+          name: initial-details
         - title: Security & Privacy
-          name: security
+          name: security-&-privacy
     - title: Getting Started
       url: /getting-started/
       sections:
