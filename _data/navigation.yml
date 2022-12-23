@@ -2,8 +2,8 @@
     - title: About UQC
       url: /about/
       sections:
-        - title: Features
-          name: features
+        - title: Inital Details
+          name: initial details
         - title: Security & Privacy
           name: security
     - title: Getting Started
