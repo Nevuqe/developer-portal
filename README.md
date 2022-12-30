@@ -8,7 +8,7 @@ For any enquiries, contact uqc@uquinix.com.
 
 And for security-related enquiries, please encrypt your email using our GPG key and contact security@uquinix.com.
 
-This repository is a read-only mirror located at [git.uquinix.com](https://git.uquinix.com/uqc-docs/), issues and pull-requests are still accepted and read.
+This repository is a read-only mirror located at [git.uquinix.com](https://git.uquinix.com/Uquinix/uqc-docs/), issues and pull-requests are still accepted and read.
 
 ## Technical
 
