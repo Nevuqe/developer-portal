@@ -3,7 +3,7 @@ layout: page
 title: Getting Started
 ---
 
-<div class="warning" markdown="1">
+<div class="info" markdown="1">
 Uquinix will soon be distributing ISOs for development.
 </div>
 
