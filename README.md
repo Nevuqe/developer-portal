@@ -8,8 +8,6 @@ For any enquiries, contact nqc@nevuqe.com.
 
 And for security-related enquiries, please encrypt your email using our GPG key and contact security@nevuqe.com.
 
-This repository is a read-only mirror located at [github.com](https://github.com/Nevuqe/nqc-docs/), issues and pull-requests are still accepted and read.
-
 ## Technical
 
 developer.nevuqe.com (nqc-docs) uses [Jekyll](https://jekyllrb.com), a blog-aware, static site generator in Ruby.
