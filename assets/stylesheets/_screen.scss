@@ -1,7 +1,7 @@
 @font-face {
-    font-family: uq;
-    src: url(fonts/uq-bold.woff2) format("woff2"),
-      url(fonts/uq-bold.woff) format("woff");
+    font-family: nv;
+    src: url(fonts/nv-bold.woff2) format("woff2"),
+      url(fonts/nv-bold.woff) format("woff");
     font-weight: 400;
     font-style: normal;
   }
@@ -19,7 +19,7 @@ body {
 }
 
 body {
-    font-family: "uq";
+    font-family: "nv";
     font-size: 18px;
     line-height: 1.5;
     background-color: var(--color-fill);
@@ -27,7 +27,7 @@ body {
     font-weight: 300;
     pre,
     code {
-        font-family: "uq";
+        font-family: "nv";
     }
 }
 
@@ -659,7 +659,7 @@ pre code .graphic {
 
 pre code .commentary,
 pre code .graphic {
-    font-family: "uq";
+    font-family: "nv";
 }
 
 @supports (overflow:-webkit-marquee) and (justify-content:inherit) {

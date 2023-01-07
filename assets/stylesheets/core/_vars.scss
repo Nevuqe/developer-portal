@@ -4,13 +4,13 @@
 }
 
 @mixin vars-light() {
-    --logo-reference: url('/assets/images/UQC.svg');
+    --logo-reference: url('/assets/images/NQC.svg');
     --menu-icon: url('/assets/images/icon-menu.svg');
     --menu-icon-close: url('/assets/images/icon-close.svg');
 }
 
 @mixin vars-dark() {
-    --logo-reference: url('/assets/images/UQC-dark.svg');
+    --logo-reference: url('/assets/images/NQC-dark.svg');
     --menu-icon: url('/assets/images/icon-menu~dark.svg');
     --menu-icon-close: url('/assets/images/icon-close~dark.svg');
 }

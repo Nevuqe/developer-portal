@@ -1,5 +1,5 @@
 - pages:
-    - title: About UQC
+    - title: About NQC
       url: /about/
       sections:
         - title: Inital Details
@@ -15,8 +15,8 @@
           name: downloading-freebsd
         - title: Installing FreeBSD
           name: installing-freebsd
-        - title: Downloading UQC
-          name: downloading-UQC
+        - title: Downloading NQC
+          name: downloading-NQC
     - title: Documentation
       url: /documentation/
       sections:

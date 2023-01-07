@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Download UQC
+title: Download NQC
 ---
 
 <div class="info" markdown="1">
-UQC ISOs will be distributed soon. [Visit the UQC Repository](https://git.uquinix.com/Uquinix/UQC).
+NQC ISOs will be distributed soon. [Visit the NQC Repository](https://github.com/Nevuqe/NQC).
 </div>
 
-### UQC is covered by the Uquinix Public Source License. [(see here)](https://git.uquinix.com/Uquinix/uqc/raw/branch/main/LICENSE).
+### NQC is covered by the Nevuqe Public Source License. [(see here)](https://raw.githubusercontent.com/Nevuqe/nqc/main/LICENSE).

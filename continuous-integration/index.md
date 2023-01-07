@@ -1,9 +1,9 @@
 ---
 layout: page
-title: UQC Continuous Integration
+title: NQC Continuous Integration
 ---
 
-UQC follows an incremental development model, and utilizes continuous integration (CI) testing of changes in pull requests before merging as a core tool for maintaining project stability. It is also used as part of the review process to run tests against pull requests before committing them.
+NQC follows an incremental development model, and utilizes continuous integration (CI) testing of changes in pull requests before merging as a core tool for maintaining project stability. It is also used as part of the review process to run tests against pull requests before committing them.
 
 Before merging a pull request, CI testing be completed and pass status checks.
 

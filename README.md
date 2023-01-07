@@ -1,18 +1,18 @@
-# UQC (developer.uquinix.com) Website
+# NQC (developer.nevuqe.com) Website
 
 ## Overview
 
-This website serves as documentation for UQC (Uquinix Core), as well as extra information about how to report bugs safely, us as a company, and direct downloads to releases and snapshots for UQC.
+This website serves as documentation for NQC (Nevuqe Core), as well as extra information about how to report bugs safely, us as a company, and direct downloads to releases and snapshots for NQC.
 
-For any enquiries, contact uqc@uquinix.com.
+For any enquiries, contact nqc@nevuqe.com.
 
-And for security-related enquiries, please encrypt your email using our GPG key and contact security@uquinix.com.
+And for security-related enquiries, please encrypt your email using our GPG key and contact security@nevuqe.com.
 
-This repository is a read-only mirror located at [git.uquinix.com](https://git.uquinix.com/Uquinix/uqc-docs/), issues and pull-requests are still accepted and read.
+This repository is a read-only mirror located at [github.com](https://github.com/Nevuqe/nqc-docs/), issues and pull-requests are still accepted and read.
 
 ## Technical
 
-developer.uquinix.com (uqc-docs) uses [Jekyll](https://jekyllrb.com), a blog-aware, static site generator in Ruby.
+developer.nevuqe.com (nqc-docs) uses [Jekyll](https://jekyllrb.com), a blog-aware, static site generator in Ruby.
 
 ### Running locally
 
@@ -27,8 +27,8 @@ Requirements
 To run the site locally, enter the following commands into a terminal window:
 
 ```shell
-git clone https://github.com/uquinix/uqc-docs.git
-cd uqc-docs
+git clone https://github.com/nevuqe/nqc-docs.git
+cd nqc-docs
 bundle install
 LC_ALL=en_us.UTF-8 bundle exec jekyll serve --livereload
 open "http://localhost:4000"

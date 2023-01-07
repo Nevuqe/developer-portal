@@ -1,7 +1,7 @@
 @font-face {
-  font-family: uq;
-  src: url(../fonts/uq-bold.woff2) format("woff2"),
-    url(../fonts/uq-bold.woff) format("woff");
+  font-family: nv;
+  src: url(../fonts/nv-bold.woff2) format("woff2"),
+    url(../fonts/nv-bold.woff) format("woff");
   font-weight: 400;
   font-style: normal;
 }
@@ -10,7 +10,7 @@
   --color-footer-text-light: #cccccc;
   --color-footer-background: var(--color-footer-background-light);
   --color-footer-text: var(--color-footer-text-light);
-  font-family: "uq";
+  font-family: "nv";
   font-size: 18px;
   font-weight: 300;
   line-height: 1;
