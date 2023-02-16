@@ -42,3 +42,8 @@
           name: releases
         - title: Snapshots
           name: snapshots
+
+- header: Open Source
+  pages:
+    - title: Security
+      url: /os/security/
