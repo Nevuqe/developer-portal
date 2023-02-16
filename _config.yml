@@ -1,5 +1,5 @@
 url: https://developer.nevuqe.com
-title: NQC
+title: Developer
 description: "Join us, let's revolutionize the desktop market."
 timezone: Europe/London
 exclude: ["README.md", "config.ru", "Gemfile", "Gemfile.lock", "Procfile", "vendor"]
