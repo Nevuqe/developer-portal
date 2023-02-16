@@ -1,7 +1,6 @@
 @font-face {
-    font-family: nv;
-    src: url(fonts/nv-bold.woff2) format("woff2"),
-      url(fonts/nv-bold.woff) format("woff");
+    font-family: publicsans;
+    src: url(fonts/publicsans.woff2) format("woff2");
     font-weight: 400;
     font-style: normal;
   }
@@ -19,7 +18,7 @@ body {
 }
 
 body {
-    font-family: "nv";
+    font-family: "publicsans";
     font-size: 18px;
     line-height: 1.5;
     background-color: var(--color-fill);
@@ -27,7 +26,7 @@ body {
     font-weight: 300;
     pre,
     code {
-        font-family: "nv";
+        font-family: "publicsans";
     }
 }
 
@@ -113,7 +112,6 @@ div.highlighter-rouge {
 pre {
     font-size: 14px;
     line-height: 1.6em;
-    border-left: 5px solid var(--color-code-line-highlight-border);
     margin: 0.5em 0 1.5em 10px;
     padding: 4px 0 2px 10px;
     overflow: scroll;
@@ -177,9 +175,9 @@ cite {
 
 #logo {
     text-indent: -9999px;
-    height: 48px;
+    height: 38px;
     width: 100%;
-    margin-top: 20px;
+    margin-top: 10px;
     margin-bottom: 0.5em;
     padding-bottom: 10px;
     a {
@@ -659,7 +657,7 @@ pre code .graphic {
 
 pre code .commentary,
 pre code .graphic {
-    font-family: "nv";
+    font-family: "publicsans";
 }
 
 @supports (overflow:-webkit-marquee) and (justify-content:inherit) {
@@ -701,21 +699,45 @@ pre code .graphic {
     color: var(--color-aside-note);
     border-color: var(--color-aside-note-border);
     background-color: var(--color-aside-note-background);
+    border-radius: 15px;
 }
+@supports (mask-image: paint(smooth-corners)) {
+    .info.is-loaded {
+      border-radius: 0;
+      mask-image: paint(smooth-corners);
+      --smooth-corners: 10;
+    }
+  }
 
 .warning {
     @extend .alert;
     color: var(--color-aside-deprecated);
     border-color: var(--color-aside-deprecated-border);
     background-color: var(--color-aside-deprecated-background);
+    border-radius: 15px;
 }
+@supports (mask-image: paint(smooth-corners)) {
+    .warning.is-loaded {
+      border-radius: 0;
+      mask-image: paint(smooth-corners);
+      --smooth-corners: 10;
+    }
+  }
 
 .danger {
     @extend .alert;
     color: var(--color-aside-warning);
     border-color: var(--color-aside-warning-border);
     background-color: var(--color-aside-warning-background);
+    border-radius: 15px;
 }
+@supports (mask-image: paint(smooth-corners)) {
+    .danger.is-loaded {
+      border-radius: 0;
+      mask-image: paint(smooth-corners);
+      --smooth-corners: 10;
+    }
+  }
 
 table.downloads {
     width: 100%;

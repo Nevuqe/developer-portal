@@ -1,24 +1,15 @@
 ---
-layout: page
-title: About NQC
+layout: default
+title: About us
+atom: true
 ---
 
-NQC utilizes elements of FreeBSD to provide a stunningly smooth user experience. NQC provides incredible performance, alongside refined security to the user.
+# About us
 
-### Inital Details
+At Nevuqe, we are passionate about creating private software with incredibly simplistic and intuitive interfaces. We believe that technology should be easy to use and accessible to everyone, without compromising on privacy.
 
-NQC is established on the foundations and framework of FreeBSD, delivering incredible stability and support with applications and services.
+We create operating systems, interfaces, and APIs that are designed with the user in mind. Our goal is to make technology simple and enjoyable, whilst keeping your personal information private and secure.
 
-To improve upon this base, we have introduced modern programming principles and beliefs into NQC. We have kept a minimalistic design attitude toward our code. Therefore decreasing the number of files, services and drivers included in the base system - extending space and expanding the amount of free memory and drive space on the system.
+We are always looking for new and innovative ways to make technology better for everyone. We value collaboration, and we're always open to feedback and suggestions from our users. We believe that by working together, we can create a better, more private future for everyone.
 
-The features of NQC are designed to work together to create a powerful framework for a groundbreaking operating system. Main features of NQC include:
-
-* Security over Linux/XNU/Windows/FreeBSD-Current
-* High Performance and Reliability
-* Extensive Hardware Compatibility
-* Compatibility of Software (40,000+ Ported Software)
-* Binary Compatibility with Linux
-
-### Security & Privacy
-
-We strongly reinforce security into our development process, which is why we've made many changes to how NQC operates. FreeBSD, at the time of writing, has many security vulnerabilites which are the result of performance over security. We have subsequently removed these vulnerabilities, without trading off on performance. We have also removed legacy drivers and architectures from the kernel, as these are unnecessary to the vast majority of users, and wouldn't be capable of running on Enso.
+We take your privacy seriously at Nevuqe, which is why our products are designed with a zero telemetry and zero data collection policy. We are dedicated to creating privacy-enhancing software that protects your data online.

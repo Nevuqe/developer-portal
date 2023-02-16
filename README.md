@@ -1,16 +1,16 @@
-# NQC (developer.nevuqe.com) Website
+# developer-portal
 
 ## Overview
 
-This website serves as documentation for NQC (Nevuqe Core), as well as extra information about how to report bugs safely, us as a company, and direct downloads to releases and snapshots for NQC.
+`developer-portal` [developer.nevuqe.com](https://developer.nevuqe.com) is our developer portal. It gives developers access to our platforms such as NQC, guides and documentation, and API access.
 
-For any enquiries, contact nqc@nevuqe.com.
+For any enquiries, contact hello@nevuqe.com.
 
 And for security-related enquiries, please encrypt your email using our GPG key and contact security@nevuqe.com.
 
 ## Technical
 
-developer.nevuqe.com (nqc-docs) uses [Jekyll](https://jekyllrb.com), a blog-aware, static site generator in Ruby.
+`developer-portal` uses [Jekyll](https://jekyllrb.com), a blog-aware, static site generator in Ruby.
 
 ### Running locally
 
@@ -25,8 +25,8 @@ Requirements
 To run the site locally, enter the following commands into a terminal window:
 
 ```shell
-git clone https://github.com/nevuqe/nqc-docs.git
-cd nqc-docs
+git clone https://github.com/nevuqe/developer-portal.git
+cd developer-portal
 bundle install
 LC_ALL=en_us.UTF-8 bundle exec jekyll serve --livereload
 open "http://localhost:4000"

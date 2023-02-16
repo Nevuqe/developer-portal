@@ -1,6 +1,6 @@
 url: https://developer.nevuqe.com
 title: NQC
-description: "NQC is a heavily modified version of BSD which entails high performance, security, privacy and compatibility."
+description: "Join us, let's revolutionize the desktop market."
 timezone: Europe/London
 exclude: ["README.md", "config.ru", "Gemfile", "Gemfile.lock", "Procfile", "vendor"]
 safe: true
@@ -26,3 +26,6 @@ gems:
 
 whitelist:
   - jekyll-redirect-from
+
+plugins:
+  - jekyll-menus

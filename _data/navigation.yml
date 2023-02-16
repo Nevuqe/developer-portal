@@ -1,46 +1,44 @@
 - pages:
-    - title: About NQC
+    - title: Home
+      url: /
+    - title: About us
       url: /about/
+
+- header: NQC
+  pages:
+    - title: What is NQC?
+      url: /nqc/about/
       sections:
-        - title: Inital Details
-          name: initial-details
-        - title: Security & Privacy
-          name: security-&-privacy
+        - title: What is NQC?
+          name: what-is-nqc
+        - title: Differences between NQC and FreeBSD
+          name: differences-between-nqc-and-freebsd
+        - title: Open Source
+          name: open-source
     - title: Getting Started
-      url: /getting-started/
+      url: /nqc/getting-started/
       sections:
-        - title: Setting up the Environment
-          name: setting-up-the-environment
-        - title: Downloading FreeBSD
-          name: downloading-freebsd
-        - title: Installing FreeBSD
-          name: installing-freebsd
-        - title: Downloading NQC
-          name: downloading-NQC
-    - title: Documentation
-      url: /documentation/
+        - title: General Information
+          name: general-information
+        - title: Downloading NQC ISOs
+          name: downloading-nqc-isos
+        - title: Preparing the environment
+          name: preparing-the-environment
+        - title: Installing NQC
+          name: installing-nqc
+    - title: Building SRC
+      url: /nqc/building/
       sections:
-        - title: About
-          name: about
-        - title: Preparing to Build
-          name: preparing-to-build
+        - title: Cloning from Git
+          name: cloning-from-git
         - title: Building the Kernel
           name: building-the-kernel
         - title: Building the World
           name: building-the-world
-        - title: Packaging the Kernel & World
-          name: packaging-the-kernel-and-world
     - title: Download
-      url: /download/
+      url: /nqc/download/
       sections:
         - title: Releases
           name: releases
         - title: Snapshots
           name: snapshots
-
-- header: Open Source Development
-  pages:
-    - title: Continuous Integration
-      url: /continuous-integration/
-    - title: Security
-      url: /support/security.html

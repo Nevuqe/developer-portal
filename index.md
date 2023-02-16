@@ -1,22 +1,24 @@
 ---
 layout: default
-title: Welcome to NQC
+title: Welcome
 atom: true
 ---
 
-# Welcome to NQC
+# Welcome
 
-Welcome to NQC. Together, we are working to build a kernel to power and transform the way we use a computer. Our aim is to create a kernel which provides security, performance and compatibility to people who require it.
+Welcome to Nevuqe's Developer Portal!
 
-NQC is created for Enso, which inspires creativity through its simplistic interface - providing privacy along with a stunning user interface.  For us, transparency is important; that's why NQC is open-source to the public.
+At Nevuqe, we are committed to providing developers with the resources they need to build amazing applications. Our Developer Portal is designed to be everything a developer needs to get started building on our platforms.
 
-We believe open-sourcing improves security, reduces vulnerabilities and brings our community closer. That's why our documentation for NQC is easily accessible to the public.
+Our core values is openness and privacy, we believe that open-source is the best way to achieve that. That's why all of our software is released under an open-source license, allowing developers to study, modify, and distribute the code as they see fit.
 
-Please note, this website is under construction - information is being added as NQC progresses.
-<br>
-<br>
+Our Developer Portal contains a wealth of information to help you get started building on our platform. You'll find guides and access to our APIs, information on our latest releases, developer betas, and much more.
+
+So whether you're a seasoned developer or just getting started, we invite you to explore our Developer Portal.
+
+---
 
 ### Would you like to contribute and improve this website?
-This website is open-sourced on GitHub, meaning you can submit a pull request to add any information, improve our documentation or anything else.
+We'd love your help to make this website even better. Since our website is open-sourced, you have the opportunity to contribute by submitting a pull request. Whether it's adding new information or improving our documentation, any suggestions are welcome.
 
-[Visit our repo](https://github.com/Nevuqe/nqc-docs)
+[Visit our repo](https://github.com/Nevuqe/developer-web)
