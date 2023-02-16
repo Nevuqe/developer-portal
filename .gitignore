@@ -1,9 +1,6 @@
 # Temporary files.
 *~
 
-# Xcode user data.
-xcuserdata
-
 # Finder metadata
 .DS_Store
 
