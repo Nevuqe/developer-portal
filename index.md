@@ -21,4 +21,4 @@ So whether you're a seasoned developer or just getting started, we invite you to
 ### Would you like to contribute and improve this website?
 We'd love your help to make this website even better. Since our website is open-sourced, you have the opportunity to contribute by submitting a pull request. Whether it's adding new information or improving our documentation, any suggestions are welcome.
 
-[Visit our repo](https://github.com/Nevuqe/developer-web)
+[Visit our repo](https://github.com/Nevuqe/developer-portal)
