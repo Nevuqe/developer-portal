@@ -1,14 +1,14 @@
 # developer-portal
 
-### Overview
+## Overview
 
 `developer-portal` [developer.nevuqe.com](https://developer.nevuqe.com) is our developer portal. It gives developers access to our platforms such as NQC, guides and documentation, and API access.
 
-For any enquiries, contact hello@nevuqe.com.
+For any enquiries, contact [hello@nevuqe.com](mailto:hello@nevuqe.com).
 
-And for security-related enquiries, please encrypt your email using our GPG key and contact security@nevuqe.com.
+And for security-related enquiries, please encrypt your email using our [PGP key](https://developer.nevuqe.com/os/keys/signing-key.asc) and contact [security@nevuqe.com](mailto:security@nevuqe.com).
 
-### Technical
+## Technical
 
 `developer-portal` uses [Jekyll](https://jekyllrb.com), a blog-aware, static site generator in Ruby.
 
